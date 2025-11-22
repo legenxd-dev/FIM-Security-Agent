@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+fim_data/
+config.json
+secret.key
+fim_db.enc
+.env
+.venv
